@@ -1,0 +1,23 @@
+/* units px % em rem vh vw*/
+/* relative units % vh vw,absolute units..px*/
+.parent{
+    width: 800px;
+    height: 800px;
+    background-color: cadetblue;
+}
+.child{
+    height: 200px;
+    width: 400px;
+    border: 1px solid purple;
+    background-color: black;
+}
+.child-one{
+    background-color: aquamarine;
+    color: rgb(204, 120, 18);
+}
+.child-two{
+    background-color: orange;
+}
+.child-three{
+    background-color: brown;
+}

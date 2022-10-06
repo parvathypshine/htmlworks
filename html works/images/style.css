@@ -1,0 +1,23 @@
+.parent{
+    width: 195px;
+    height: 350px;
+    background-color: cadetblue;
+    text-align: center;
+}
+.child{
+    height: 350px;
+    width: 193px;
+    border: 1px solid purple;
+    background-color: wheat;
+}
+.child-one{
+    background-color: aquamarine;
+    color: rgb(204, 120, 18);
+    
+}
+.child-two{
+    background-color: orange;
+}
+.child-three{
+    background-color: brown;
+}

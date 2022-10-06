@@ -1,0 +1,14 @@
+/*selectors..id selectors,tag selector,class selector*/
+h1{
+    color: rgb(0, 255, 76);
+    border: 1px solid red;
+}
+#id_hone{
+    color: rgb(27, 14, 14);
+    border:2px solid blueviolet;
+}
+
+.hone{
+    color: yellow;
+    border: 2px solid black;
+}

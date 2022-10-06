@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+   height: 100vh;
+   width: 100vw;
+}
+.parent{
+    width: 100%;  
+    height: 500px;
+    
+}
+.child{
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.child-one{
+    background-color: aqua;
+}
+.child-two{
+    background-color: beige;
+
+}
+.child-three{
+    background-color: blue;
+}
+.child-four{
+    background-color: brown;
+}
+/*hellohai*/

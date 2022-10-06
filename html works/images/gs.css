@@ -1,0 +1,62 @@
+
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.col{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.row{
+    
+    
+    width: 100%;
+    
+    background-color: burlywood;
+    display: flex;
+    align-items:flex-start;
+    justify-content:space-evenly;
+
+}
+.col{
+    margin-top: 10%;
+    width: 23%;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+    background-color: white;
+
+}
+body{
+    margin: 10px 10px;
+}
+.col-5{
+    margin-bottom: 30%;
+}

@@ -1,0 +1,29 @@
+.row{
+    /*position: absolute;
+    top: 40%;*/
+    margin-bottom: 100px;
+    width: 80%;
+    height: 400px;
+    background-color: burlywood;
+    display: flex;
+    align-items: flex-end;
+    justify-content:space-evenly;
+    /*justify-content: space-between;..horizontaly*/
+    /*justify-content: space-around;*/
+}
+.col{
+    width: 20%;
+    height: 200px;
+    
+}
+
+.col-1{
+    background-color: aqua;
+}
+.col-2{
+    background-color: rgb(118, 116, 145);
+
+}
+.col-3{
+    background-color: blueviolet;
+}
