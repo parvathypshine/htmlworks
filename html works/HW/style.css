@@ -1,0 +1,16 @@
+
+.row{
+    width: 90%;
+    height: 100vh;
+    margin-left: 5%;
+     background-color: rgb(181, 244, 208);
+   
+}
+.col{
+    width: 35%;
+    height: 80vh;
+    border: 1px solid rgb(25, 23, 21);
+    
+    margin-left: 4%;
+    
+}
